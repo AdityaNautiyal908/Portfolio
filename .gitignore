@@ -1,0 +1,15 @@
+# VS Code settings (optional)
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using Node.js later)
+node_modules/
+
+# Log or cache files
+*.log
+*.tmp
+
+portfolio-website-azure-ai/
